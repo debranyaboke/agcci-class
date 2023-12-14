@@ -1,2 +1,2 @@
 # agcci-class
-My first repository
+the two weeks coding camp was nice
